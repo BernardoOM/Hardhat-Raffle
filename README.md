@@ -1,3 +1,3 @@
 # Hardhat-Raffle-VRF
 
-### A decentralized lottery project.
+### A decentralized lottery made in hardhat with solidity and javascript.
